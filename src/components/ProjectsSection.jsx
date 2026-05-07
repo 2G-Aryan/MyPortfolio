@@ -4,30 +4,30 @@ import vishwakarmaImage from "@/assets/vishwakarma.png";
 import netflixImage from "@/assets/netflix.jpeg";
 
 const projects = [
-  {
-    title: "App Growth Hub",
-    desc: "A beautiful landing page app using React and Tailwind.",
-    image: aghImage, 
-    tech: ["React", "TailwindCSS", "framer motion"],
-    live: "https://www.appgrowthhub.com/",
-    code: "https://github.com/2G-Aryan/react-portfolio-abhishek",
-  },
-  {
-    title: "Vishwakarma civil and stone work",
-    desc: "Interactive interior designer website.",
-    image: vishwakarmaImage,
-    tech: ["Nextjs", "Tailwindcss", "Web3Forms"],
-    live: "https://www.vishwakarmacivilandstonework.com/",
-    code: "https://github.com/2G-Aryan/Vishwakarma",
-  },
-  {
-    title: "Netflix Clone",
-    desc: "Clone using HTML CSS",
-    image: netflixImage,
-    tech: ["Html","Css"],
-    live: "https://netflix-vert-phi.vercel.app/",
-    code: "https://github.com/2G-Aryan/Netflix-Clone",
-  },
+  // {
+  //   title: "App Growth Hub",
+  //   desc: "A beautiful landing page app using React and Tailwind.",
+  //   image: aghImage, 
+  //   tech: ["React", "TailwindCSS", "framer motion"],
+  //   live: "https://www.appgrowthhub.com/",
+  //   code: "https://github.com/2G-Aryan/react-portfolio-abhishek",
+  // },
+  // {
+  //   title: "Vishwakarma civil and stone work",
+  //   desc: "Interactive interior designer website.",
+  //   image: vishwakarmaImage,
+  //   tech: ["Nextjs", "Tailwindcss", "Web3Forms"],
+  //   live: "https://www.vishwakarmacivilandstonework.com/",
+  //   code: "https://github.com/2G-Aryan/Vishwakarma",
+  // },
+  // {
+  //   title: "Netflix Clone",
+  //   desc: "Clone using HTML CSS",
+  //   image: netflixImage,
+  //   tech: ["Html","Css"],
+  //   live: "https://netflix-vert-phi.vercel.app/",
+  //   code: "https://github.com/2G-Aryan/Netflix-Clone",
+  // },
 ];
 
 export const ProjectsSection = () => {
