@@ -2,23 +2,23 @@ import { useState } from "react";
 
 const skillsData = {
   All: [
-    { name: "HTML/CSS", level: 95 },
-    { name: "JavaScript", level: 90 },
-    { name: "React", level: 80 },
-    { name: "Tailwind CSS", level: 90 },
-    { name: "Next.js", level: 80 },
-     { name: "Bootstrap", level: 90 },
+    { name: "HTML/CSS", level: 90 },
+    { name: "JavaScript", level: 80 },
+    { name: "React", level: 70 },
+    { name: "Tailwind CSS", level: 70 },
+    { name: "Next.js", level: 60 },
+     { name: "Bootstrap", level: 80 },
   ],
   Frontend: [
-    { name: "HTML/CSS", level: 95 },
-    { name: "JavaScript", level: 90 },
-    { name: "React", level: 80 },
-    { name: "Tailwind CSS", level: 90 },
-    { name: "Next.js", level: 80 },
+    { name: "HTML/CSS", level: 90 },
+    { name: "JavaScript", level: 80 },
+    { name: "React", level: 70 },
+    { name: "Tailwind CSS", level: 70 },
+    { name: "Next.js", level: 60 },
   ],
   Backend: [
     { name: "Node.js", level: 30 },
-    { name: "Express.js", level: 25 },
+    { name: "Php", level: 75 },
     { name: "MongoDB", level: 50 },
   ],
   Tools: [
